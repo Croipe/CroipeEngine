@@ -28,6 +28,6 @@ int main() {
 }
 ```
 # Todo
-- Move examples to seperate repositories 
+- ~~Move examples to seperate repositories~~
 - Add scripting
 - Complete documentation
