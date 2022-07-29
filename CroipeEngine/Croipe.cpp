@@ -7,4 +7,3 @@
 #include "TimeHandler.cpp"
 #include "Math.cpp"
 #include "RenderPlatform.cpp"
-#include "ScriptingInterface.cpp"
