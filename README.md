@@ -1,5 +1,5 @@
 # CroipeEngine
-A header only C++ 17 game engine, allowing you to draw 3D Wireframe graphics directly to the command prompt. Everything is built up from the ability to draw pixels and Windows libraries, and the line algorithm is implemented from scratch. The engine features the ability to lead .obj files, take input, and play audio (although it breaks when more than one sound is played due to the way the Windows library used.
+A header only C++ 17 game engine, allowing you to draw 3D Wireframe graphics directly to the command prompt. Everything is built up from the ability to draw pixels and Windows libraries, and the line algorithm is implemented from scratch. The engine features the ability to lead .obj files, take input, and play audio (although it breaks when more than one sound is played due to the way the Windows library used works).
 
 ![Alt Spaceship In Command Prompt](Images/spaceship_example.png)
 [Code](https://github.com/Croipe/CroipeExamples/tree/main/SpaceShipExample) \
