@@ -3,7 +3,7 @@ A header only C++ 17 game engine, allowing you to draw 3D Wireframe graphics dir
 
 ![Alt Spaceship In Command Prompt](Images/spaceship_example.png)
 [Code For Example](https://github.com/Croipe/CroipeExamples/tree/main/SpaceShipExample) \
-*For some reason the screenshots always look compressed and low quality no matter what I try, so please download the `.exe` from the example repository and run for a full demo. This screenshot is one of the better ones*
+*For some reason the screenshots always look compressed and low quality no matter what I try, so please download the `.exe` from the example repository and run for a full demo. This screenshot is one of the better ones.*
 
 # Dependencies
 Made entirely from the standard and Windows libraries.
